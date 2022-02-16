@@ -1,0 +1,4 @@
+{
+    "db":"mongodb+srv://rania:0000@cluster1.qfpkn.mongodb.net/Authantification?retryWrites=true&w=majority",
+    "secret":"secret token"
+}
