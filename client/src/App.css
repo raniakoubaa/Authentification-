@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.signup{
+  border:1px solid black;
+  margin: 100px 200px;
+}
+.form_SignUp{
+  margin: 30px;
+}

@@ -73,3 +73,6 @@ exports.login = async (req, res) => {
 exports.getUser=(req,res)=>{
     res.send(req.user)
 }
+// exports.LogOutUser=(req,res)=>{
+//     window.localStorage.clear();
+// }
